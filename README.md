@@ -8,14 +8,6 @@ In October 2019, 46 scientists from around the world participated in the first N
 
 [pub]: https://f1000research.com/articles/9-1141/v1
 
-## Participants
-
-...
-
-## Location
-
-...
-
 ## Methods
 
 [Clouseau](Clouseau): rapid quality assessment of population-scale VCF files. As we progress from comparing SVs between a sample and its corresponding reference (capturing differences between a given sample and its reference genome) to large cohort genomic datasets (variants across multiple hundreds to thousands of samples), large variant call format (VCF) files are being generated. Generating these large VCF files often involves customized scripts or analysis methods leaving the possibility of human or other runtime errors. For example, undetected errors such as incomplete files or artificially missing data might be mistaken for real biological phenomena (deletions/truncations). Leaving these unchecked may lead to erroneous conclusions. We developed Clouseau to address these challenges. Clouseau is a command line tool allowing users to rapidly validate VCF file formatting, generate multiple QC statistics, providing rapid QC insights from the input VCF file.
@@ -32,6 +24,9 @@ In October 2019, 46 scientists from around the world participated in the first N
 
 [ScanCNV](SCANCNV). Many current medical genomic studies still rely on CNV calling to identify de novo events that could have led to a certain disease phenotype. Nevertheless, a common problem for CNV detection is a high rate of false positives36 due to multiple biases in leading short-read sequencing technologies (e.g. GC bias, repetitiveness and general unevenness of the sequence data). To identify false positives and thus improve the reliability of CNV calling pipelines, we designed ScanCNV, which includes multiple QC steps. These QC steps currently include FASTQC v0.11.9, XYAlign v1.1.637, and Plink v2.038 where all the information is currently assembled and vetted within ScanCNV. Future work is still required to automate the process and fully leverage the obtained QC results.
 
+## Participants
+
+...
 
 ## Funding
 
