@@ -1,4 +1,4 @@
-# Strucutural-Variation-Baylor-College-Hackaton-2019
+# Strucutural Variation Baylor College Codeathon 2019
 
 In October 2019, 46 scientists from around the world participated in the first National Center for Biotechnology Information (NCBI) Structural Variation (SV) Codeathon at Baylor College of Medicine. The charge of this first annual working session was to identify ongoing challenges around the topics of SV and graph genomes, and in response to design reliable methods to facilitate their study
 
