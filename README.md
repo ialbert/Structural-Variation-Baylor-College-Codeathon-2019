@@ -1,10 +1,8 @@
-> Note:
->
-> This repository was created as part of the review for the publication:
+> **Note:** This repository was created as part of the review for the publication:
 >
 > https://f1000research.com/articles/9-1141/v1
 >
-> and as a recommendation that the NCBI codeathons should follow the structure shown in this repository rather than the current layouts as seen in:
+> to server as a recommendation that all NCBI Codeathons should follow the structure shown here rather than the current layout seen in:
 >
 > https://github.com/NCBI-Codeathons/
 >
