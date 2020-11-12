@@ -2,9 +2,7 @@
 >
 > https://f1000research.com/articles/9-1141/v1
 >
-> to server as a recommendation that all NCBI Codeathons should follow the structure shown here rather than the current layout seen in:
->
-> https://github.com/NCBI-Codeathons/
+> to serve as a recommendation that all NCBI Codeathons should follow the structure shown here rather than the current layout seen in: https://github.com/NCBI-Codeathons/
 >
 
 # Structural Variation Baylor College Codeathon 2019
