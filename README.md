@@ -1,3 +1,14 @@
+> Note:
+>
+> This repository was created as part of the review for the publication:
+>
+> https://f1000research.com/articles/9-1141/v1
+>
+> and as a recommendation that the NCBI codeathons should follow the structure shown in this repository rather than the current layouts as seen in:
+>
+> https://github.com/NCBI-Codeathons/
+>
+
 # Structural Variation Baylor College Codeathon 2019
 
 In October 2019, 46 scientists from around the world participated in the first National Center for Biotechnology Information (NCBI) Structural Variation (SV) Codeathon at Baylor College of Medicine. The charge of this first annual working session was to identify ongoing challenges around the topics of SV and graph genomes, and in response to design reliable methods to facilitate their study
